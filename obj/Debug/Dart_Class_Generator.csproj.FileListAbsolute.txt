@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Dart_Class_Generator\bin\Debug\Dart_Class_Generator.exe.config
+C:\Users\User\source\repos\Dart_Class_Generator\bin\Debug\Dart_Class_Generator.exe
+C:\Users\User\source\repos\Dart_Class_Generator\bin\Debug\Dart_Class_Generator.pdb
+C:\Users\User\source\repos\Dart_Class_Generator\obj\Debug\Dart_Class_Generator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dart_Class_Generator\obj\Debug\Dart_Class_Generator.Form1.resources
+C:\Users\User\source\repos\Dart_Class_Generator\obj\Debug\Dart_Class_Generator.Properties.Resources.resources
+C:\Users\User\source\repos\Dart_Class_Generator\obj\Debug\Dart_Class_Generator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Dart_Class_Generator\obj\Debug\Dart_Class_Generator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dart_Class_Generator\obj\Debug\Dart_Class_Generator.exe
+C:\Users\User\source\repos\Dart_Class_Generator\obj\Debug\Dart_Class_Generator.pdb

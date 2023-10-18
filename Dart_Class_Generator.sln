@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dart_Class_Generator", "Dart_Class_Generator.csproj", "{51A3E6F5-D06F-483E-B5D6-AD4A9DAE37C0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Dart_Class_Generator_Setup", "..\Dart_Class_Generator_Setup\Dart_Class_Generator_Setup.vdproj", "{4E7A6C36-28FF-4ED1-809F-61C634B67DD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A3E6F5-D06F-483E-B5D6-AD4A9DAE37C0}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{51A3E6F5-D06F-483E-B5D6-AD4A9DAE37C0}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{51A3E6F5-D06F-483E-B5D6-AD4A9DAE37C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A3E6F5-D06F-483E-B5D6-AD4A9DAE37C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7A6C36-28FF-4ED1-809F-61C634B67DD0}.Debug|Any CPU.ActiveCfg = Release
+		{4E7A6C36-28FF-4ED1-809F-61C634B67DD0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C048764C-E45C-4926-91B2-246517B6242C}
+	EndGlobalSection
+EndGlobal
